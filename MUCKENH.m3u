@@ -42,12 +42,10 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master.m3u8
 
 #EXTINF:-1 tvg-id="ANTV HD" group-title="VTV" tvg-logo="https://freem3u.xyz/static/images/thietyeu/antv.png", ANTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-a.fptplay53.net/live/media/antv/live-hls-avc/antv-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=20
 
 #EXTINF:-1 tvg-id="QPVN HD" group-title="VTV" tvg-logo="https://freem3u.xyz/static/images/thietyeu/qpvn.png", QPVN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=19
 
 #EXTINF:-1 tvg-id="VietNam Today" group-title="VTV" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
