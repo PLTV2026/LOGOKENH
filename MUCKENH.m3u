@@ -54,7 +54,7 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 #-----------------------HTV-------------------------------#
 
-#EXTINF:-1 tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1
+#EXTINF:-1 tvg-logo="https://vietanhtv.id.vn/logo/htv1.png",HTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv2.png" group-title="HTV",HTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=191
