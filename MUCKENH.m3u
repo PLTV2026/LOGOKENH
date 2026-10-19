@@ -8,7 +8,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
 #EXTINF:-1 tvg-id="VTV2" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/master.m3u8
 
-#EXTINF:-1 tvg-id="VTV3" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png"group-title="VTV" catchup="default" catchup-days="2" catchup-source="https://livezenatm.vtvprime.vn/live/data8/VTV3_HD/Live_DASHDRM/VTV3_HD.mpd?startTime=${start}&stopTime=${stop}" tvg-shift="0",VTV3
+#EXTINF:-1 tvg-id="VTV3" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 https://vmttv.dpdns.org/tv360/?id=vtv3
 
 #EXTINF:-1 tvg-id="VTV4" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
